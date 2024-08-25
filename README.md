@@ -32,7 +32,8 @@
 <a href="https://fb.com/itgenuinesolutions" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itgenuinesolutions" height="30" width="40" /></a>
 <a href="https://instagram.com/syedtasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="syedtasavour" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/syedtasavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syedtasavour" height="30" width="40" /></a>
-<a href="/https://itgenuinesolutions.com/feed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://itgenuinesolutions.com/feed/" height="30" width="40" /></a>\
+<a href="https://itgenuinesolutions.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="itgenuinesolutions.com/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/27011590/syed-tasavour" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/1393171?s=200&v=4" alt="https://itgenuinesolutions.com/feed/" height="30" width="40" /></a>
 
 </p>
 
