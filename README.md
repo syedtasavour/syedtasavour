@@ -45,3 +45,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=syedtasavour&show_icons=true&locale=en" alt="syedtasavour" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedtasavour&" alt="syedtasavour" /></p>
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=syedtasavour&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
