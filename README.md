@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Java, JavaScript, React ,Nodejs**
 
-- 📫 How to reach me **syedtasavour@icloud.com**
+- 📫 How to reach me **syedtasavour@hotmail.com**
 
 - 📄 Know about my experiences [#](#)
 
