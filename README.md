@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently learning **Mern**
 
-- 👨‍💻 All of my projects are available at [https://itgenuinesolutions.com/portfolio/](https://itgenuinesolutions.com/portfolio/)
-
-- 📝 I regularly write articles on [https://itgenuinesolutions.com/News/](https://itgenuinesolutions.com/News/)
+- 👨‍💻 All of my projects are available at [Syed Tasavour](https://syedtasavour.me/)
 
 - 💬 Ask me about **Java, JavaScript, React ,Nodejs**
 
