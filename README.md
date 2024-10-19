@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Syed Tasavour](https://syedtasavour.me/)
 
-- 💬 Ask me about **Java, JavaScript, React ,Nodejs**
+- 💬 Ask me about **Java and Mern**
 
 - 📫 How to reach me **syedtasavour@hotmail.com**
 
