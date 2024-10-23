@@ -47,5 +47,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=syedtasavour&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
-###  Coding Time Over the Last 7 Days
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@30b68f51-56e2-4584-9f82-05325996e6e4/d9746a79-aa41-496e-8db0-47b4c24cfbad.png" /></a>
