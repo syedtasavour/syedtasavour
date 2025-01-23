@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **syedtasavour@hotmail.com**
 
-- 📄 Know about my experiences [#](#)
+- 📄 Know about my experiences [Resume](https://resume.syedtasavour.me/))
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
