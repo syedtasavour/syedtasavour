@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Syed Tasavour</h1>
 <h3 align="center">Full Stack Developer hailing from the beautiful region of Jammu & Kashmir. 🏔️ 🖥️ With a passion for programming and software development</h3>
 
-<img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29894%26project%3D%26in=0">
+##### Coding Time for the Last 30 Days (Tracking Starts on the 2nd Day of Each Month and Resets at the Start of Every New Month)
+
+![CodeTime Badge](https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D29894%26project%3D%26in=0)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedtasavour&label=Profile%20views&color=0e75b6&style=flat" alt="syedtasavour" /> </p>
 
