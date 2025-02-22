@@ -13,7 +13,7 @@
 
 <p align="left"> <a href="https://twitter.com/syedtasavour_" target="blank"><img src="https://img.shields.io/twitter/follow/syedtasavour_?logo=twitter&style=for-the-badge" alt="syedtasavour_" /></a> </p>
 
-- 🔭 I’m currently Working on [**react**]
+- 🔭 I’m currently Working on **Mern**
 
 - 👨‍💻 All of my projects are available at [Syed Tasavour](https://syedtasavour.me/)
 
