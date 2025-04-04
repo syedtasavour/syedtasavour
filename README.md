@@ -13,11 +13,11 @@
 
 <p align="left"> <a href="https://twitter.com/syedtasavour_" target="blank"><img src="https://img.shields.io/twitter/follow/syedtasavour_?logo=twitter&style=for-the-badge" alt="syedtasavour_" /></a> </p>
 
-- 🔭 I’m currently Working on **Mern**
+- 🔭 Currently working on **MERN Stack Projects**
 
 - 👨‍💻 All of my projects are available at [Syed Tasavour](https://syedtasavour.me/)
 
-- 💬 Ask me about **Java and Mern**
+- 💬 Ask me about **Java**, **MERN**, and **Backend Architectures**
 
 - 📫 How to reach me **syedtasavour@hotmail.com**
 
