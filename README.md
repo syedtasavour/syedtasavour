@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Tasavour</h1>
 <h3 align="center">🚀 Full Stack Developer | Scalable Web & AI-integrated Systems |  Application Development</h3>
 <p align="center">
-  Building production-grade platforms with real-time capabilities, serverless infrastructure, and high user concurrency.
+   Building production-grade platforms with real-time capabilities, microservice architecture, and high user concurrency.
 </p>
 
 
@@ -16,7 +16,7 @@
 
 ---
 
-🚀 Building a **Serverless Full Stack Platform** on **AWS** using 🧠 **TypeScript + React**, ⚙️ **Lambda + API Gateway**, 🔐 **Cognito**, 💾 **PostgreSQL/MongoDB/DynamoDB**, ☁️ **S3**, **CloudWatch**, **IAM**.
+🔭 I’m currently working on an **AWS Serverless-Architected** app using 🧠 **TypeScript + React.js** and ⚙️ **Lambda functions for CRUD operations**.
 > Architected for scalability, real-time performance, and multi-database orchestration in a microservices-friendly environment.
 - 💬 Ask me about **Node.js**, **AWS**, **Microservices**, **WebSockets**, **Performance Optimization**
 - 👨‍💻 Portfolio: [syedtasavour.me](https://syedtasavour.me)
