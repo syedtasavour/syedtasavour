@@ -99,7 +99,6 @@
 </p>
 
 ## 👨‍💻 Contribution Activity Overview
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/syedtasavour/syedtasavour/output/snake.svg" alt="snake animation" />
 </p>
