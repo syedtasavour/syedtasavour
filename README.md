@@ -83,12 +83,12 @@
 
 <p align="center">
   <img
-    src="https:/readme.syedtasavour.me/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true&v=1"
+    src="https:/readme.syedtasavour.me/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true"
     width="400"
     alt="GitHub stats"
   />
   <img
-    src="https:/readme.syedtasavour.me/api/top-langs?username=syedtasavour&layout=compact&hide_border=true&v=1"
+    src="https:/readme.syedtasavour.me/api/top-langs?username=syedtasavour&layout=compact&hide_border=true"
     width="350"
     alt="Top languages"
   />
