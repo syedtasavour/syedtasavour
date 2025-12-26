@@ -82,8 +82,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://trophy.syedtasavour.me/api?username=syedtasavour&show_icons=true&theme=default" width="400"/>
-  <img src="https://trophy.syedtasavour.me/api/top-langs?username=syedtasavour&layout=compact" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedtasavour&layout=compact&hide_border=true" width="350"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtasavour" width="750"/>
