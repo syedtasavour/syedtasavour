@@ -83,12 +83,12 @@
 
 <p align="center">
   <img
-    src="https://my-repo-jet-nine.vercel.app/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true&v=1"
+    src="https:/readme.syedtasavour.me/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true&v=1"
     width="400"
     alt="GitHub stats"
   />
   <img
-    src="https://my-repo-jet-nine.vercel.app/api/top-langs?username=syedtasavour&layout=compact&hide_border=true&v=1"
+    src="https:/readme.syedtasavour.me/api/top-langs?username=syedtasavour&layout=compact&hide_border=true&v=1"
     width="350"
     alt="Top languages"
   />
