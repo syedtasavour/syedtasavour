@@ -45,7 +45,7 @@
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy-master.onrender.com/?username=syedtasavour&theme=flat" />
+  <img src="https://trophy.syedtasavour.me/?username=syedtasavour&theme=flat" />
 </p>
 
 ---
