@@ -81,18 +81,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://my-repo-jet-nine.vercel.app/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true"
-    width="400"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://my-repo-jet-nine.vercel.app/api/top-langs?username=syedtasavour&layout=compact&hide_border=true"
-    width="350"
-    alt="Top languages"
-  />
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtasavour" width="750"/>
