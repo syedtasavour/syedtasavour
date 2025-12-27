@@ -7,7 +7,7 @@
 
 ---
 
-##### Coding Time for the Last 30 Days (Tracking Starts on the 2nd Day of Each Month and Resets at the Start of Every New Month)
+##### Coding Time 
 [![CodeTime Badge](https://shields.jannchie.com/endpoint?style=for-the-badge&color=red&url=https%3A%2F%2Fapi.codetime.dev%2Fv3%2Fusers%2Fshield%3Fuid%3D29894)](https://codetime.dev)
 
 <p align="left">
