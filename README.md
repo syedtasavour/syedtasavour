@@ -20,7 +20,6 @@
 > Architected for scalability, real-time performance, and multi-database orchestration in a microservices-friendly environment.
 - 💬 Ask me about **Node.js**, **AWS**, **Microservices**, **WebSockets**, **Performance Optimization**
 - 👨‍💻 Portfolio: [syedtasavour.me](https://syedtasavour.me)
-- 📄 Resume: [resume.syedtasavour.me](https://resume.syedtasavour.me)
 - 📫 Email: **hi@syedtasavour.me**
 
 ---
