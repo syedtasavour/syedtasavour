@@ -1,4 +1,7 @@
 <h1 align="center">Hey, I'm Syed Tasavour 👋</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=syedtasavour&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 <h3 align="center">Full Stack Developer · I build things that scale, ship fast, and don't fall over at 3 AM.</h3>
 
@@ -79,8 +82,9 @@ No names. NDAs exist for a reason. But the scale was real.
   <img src="https://readme.syedtasavour.me/api/top-langs?username=syedtasavour&layout=compact&hide_border=true&v=1" width="350" />
 </p>
 <p align="center">
-<a href="https://syedtasavour.me"><img src="https://github-readme-streak-stats.herokuapp.com?user=syedtasavour&exclude_days=Sun" alt="GitHub Streak" /></a>
+<a href="https://syedtasavour.me"><img src="https://github-readme-streak-stats.herokuapp.com?user=syedtasavour&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
+
 ---
 
 ## Let's connect
@@ -97,6 +101,7 @@ I'm always open to interesting problems, collabs, or just a good tech conversati
   <a href="https://discord.gg/syedtasavour"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="28" width="36" /></a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=syedtasavour&label=Profile%20views&color=0e75b6&style=flat" />
+---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/syedtasavour/syedtasavour/output/snake.svg" alt="snake animation" />
 </p>
