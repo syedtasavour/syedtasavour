@@ -78,11 +78,9 @@ No names. NDAs exist for a reason. But the scale was real.
   <img src="https://readme.syedtasavour.me/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true&v=1" width="400" />
   <img src="https://readme.syedtasavour.me/api/top-langs?username=syedtasavour&layout=compact&hide_border=true&v=1" width="350" />
 </p>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedtasavour" width="700"/>
+<a href="https://syedtasavour.me"><img src="https://github-readme-streak-stats.herokuapp.com?user=syedtasavour&exclude_days=Sun" alt="GitHub Streak" /></a>
 </p>
-
 ---
 
 ## Let's connect
