@@ -74,19 +74,21 @@ I've had the chance to build infrastructure for platforms across industries — 
 No names. NDAs exist for a reason. But the scale was real.
 
 ---
-
-## GitHub stats
+### 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://trophy.syedtasavour.me/?username=syedtasavour&theme=flat" />
 </p>
+
+---
+## GitHub stats
 
 <p align="center">
   <img src="https://readme.syedtasavour.me/api?username=syedtasavour&show_icons=true&theme=default&hide_border=true&v=1" width="400" />
   <img src="https://readme.syedtasavour.me/api/top-langs?username=syedtasavour&layout=compact&hide_border=true&v=1" width="350" />
 </p>
 <p align="center">
-<a href="https://syedtasavour.me"><img src="https://github-readme-streak-stats.herokuapp.com?user=bat-tasavour" alt="GitHub Streak" /></a>
+<a href="https://syedtasavour.me"><img src="https://github-readme-streak-stats.herokuapp.com?user=syedtasavour&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </p>
 
 ---
