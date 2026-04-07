@@ -40,6 +40,13 @@ Here's a taste of what I've shipped:
 
 ---
 
+## Places my code has gone
+
+I've had the chance to build infrastructure for platforms across industries — from senior living communications to AI-powered sports analytics used by **Major League Baseball**, **ESPN**, and elite performance programs. The kind of platforms that don't tolerate downtime, bad data, or slow queries.
+
+No names. NDAs exist for a reason. But the scale was real.
+
+---
 ## Projects I can talk about
 
 ### 🚀 [Postlyo](https://postlyo.com) — Multi-Tenant SaaS Blogging Platform
@@ -53,7 +60,34 @@ Built and scaled a live alerts platform serving **100,000+ monthly users** with 
 Generates **$2,000–$4,000 MRR** through ad integrations and aggressive query/cache optimization.
 
 ---
+## 🧪 Things I build when no one's watching
+ 
+Pet projects. Internal tools. Closed bets that paid off. Open source experiments that turned into real things. I ship constantly — some have source code, some just have a live URL, all of them work.
 
+**[SupplyGuard](https://supplyguard-bat.vercel.app/)** · `TypeScript · Next.js · PostGreSql` · [`Live`](https://supplyguard-bat.vercel.app/)
+Your dependencies are changing faster than your team can review them. SupplyGuard watches what changed, maps it to what matters, and alerts the right people before a quiet deploy becomes an incident. GitHub App-based, privacy-first, no source code stored.
+
+**[GhostFrame](https://github.com/syedtasavour/GhostFrame)** · `Python` · [`Open Source`](https://github.com/syedtasavour/GhostFrame)
+NVIDIA Broadcast for Linux — because Linux developers deserve background removal too. AI-powered virtual camera with real-time background removal. No official support existed. So I built it.
+
+**[Vehicost](https://vehicost.syedtasavour.me/)** · `TypeScript · Next.js · MongoDB` · [`Live`](https://vehicost.syedtasavour.me/)
+Most vehicle owners have no idea what their car actually costs per kilometre. Vehicost fixes that — tracks fuel, service, accessories, and every random expense, then turns it into cost-per-km, mileage, and a full breakdown. Financial clarity for people who drive.
+ 
+**[SimulAPI](https://simulapi.vercel.app/)** · `TypeScript · Next.js · MongoDB` · [`Open Source`](https://github.com/syedtasavour/simulapi) · [`Live`](https://simulapi.vercel.app/)
+If your frontend team is waiting for the backend to be "ready," your velocity is already broken. SimulAPI turns OpenAPI specs into live, validated mock APIs in under 60 seconds. Dynamic data, chaos mode, public staging URLs. Stop writing mock scripts. Start shipping.
+
+**[NewsForge](https://newsforgedaily.syedtasavour.me/)** · `TypeScript · Next.js · MongoDB` · [`Open Source`](https://github.com/syedtasavour/NewsForg) · [`Live`](https://newsforgedaily.syedtasavour.me/)
+A single-site, SEO-first newsroom platform built on Next.js App Router + MongoDB. Engineered for publishers who won't compromise on performance or editorial control.
+ 
+**[EduPlan](https://eduplan.syedtasavour.me)** · `TypeScript · Next.js · MongoDB` · [`Open Source`](https://github.com/syedtasavour/EduPlan) · [`Live`](https://eduplan.syedtasavour.me/)
+Not just an expense tracker — a 12-month academic financial strategy workspace. Built to eliminate the anxiety parents feel every time a school fee deadline shows up.
+ 
+**[InvoiceFlow](https://github.com/syedtasavour/InvoiceFlow)** · `JavaScript · Next.js` · [`Open Source`](https://github.com/syedtasavour/InvoiceFlow)
+Invoicing for freelancers and contractors who need to bill clients without drowning in accounting software. Simple. Fast. Gets out of your way.
+ 
+> More dropping regularly. Some will have repos. Some won't. All of them will work.
+
+---
 ## My stack (the short version)
 
 | Layer | Tools |
@@ -64,15 +98,6 @@ Generates **$2,000–$4,000 MRR** through ad integrations and aggressive query/c
 | **Cloud** | AWS (Lambda · SES · S3 · EC2 · VPC · API Gateway) · DigitalOcean |
 | **Databases** | PostgreSQL · MongoDB · Redis · Supabase · NeonDB |
 | **Concepts** | Multi-tenant SaaS · Microservices · Event-driven Architecture |
-
----
-
-## Places my code has gone
-
-I've had the chance to build infrastructure for platforms across industries — from senior living communications to AI-powered sports analytics used by **Major League Baseball**, **ESPN**, and elite performance programs. The kind of platforms that don't tolerate downtime, bad data, or slow queries.
-
-No names. NDAs exist for a reason. But the scale was real.
-
 ---
 ### 🏆 GitHub Trophies
 
