@@ -35,7 +35,7 @@ Here's a taste of what I've shipped:
 - ⚡ **Real-time messaging** with Socket.IO + Redis Pub/Sub — sustaining **1,000+ concurrent users**, encrypted end-to-end
 - 🔒 **Multi-layer auth** — JWT, OAuth 2.0 (Google/LinkedIn), 2FA, with retry logic hitting **99% delivery reliability**
 - 🏗️ **Serverless APIs** on AWS Lambda + API Gateway — built for scale, without the maintenance headache
-- 🛒 **30+ production APIs** for a professional networking platform — feeds, connections, profiles, the works
+- 🛒 **500+ production APIs** for a professional networking platform — feeds, connections, profiles, the works
 - ⚡ **React app performance** improved by **25%** through lazy loading, code splitting & memoization
 
 ---
