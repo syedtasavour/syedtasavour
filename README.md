@@ -72,7 +72,10 @@ NVIDIA Broadcast for Linux — because Linux developers deserve background remov
 
 **[Vehicost](https://vehicost.syedtasavour.me/)** · `TypeScript · Next.js · MongoDB` · [`Live`](https://vehicost.syedtasavour.me/)
 Most vehicle owners have no idea what their car actually costs per kilometre. Vehicost fixes that — tracks fuel, service, accessories, and every random expense, then turns it into cost-per-km, mileage, and a full breakdown. Financial clarity for people who drive.
- 
+
+**[Vehicost App](https://play.google.com/store/apps/details?id=com.vehicost.app)** · `TypeScript · React Native · NativeWind` · [`App`](https://play.google.com/store/apps/details?id=com.vehicost.app)
+Most vehicle owners don’t know what their car really costs. Vehicost tracks every expense directly from the mobile app and turns it into cost-per-km, mileage, and clear insights.
+
 **[SimulAPI](https://simulapi.vercel.app/)** · `TypeScript · Next.js · MongoDB` · [`Open Source`](https://github.com/syedtasavour/simulapi) · [`Live`](https://simulapi.vercel.app/)
 If your frontend team is waiting for the backend to be "ready," your velocity is already broken. SimulAPI turns OpenAPI specs into live, validated mock APIs in under 60 seconds. Dynamic data, chaos mode, public staging URLs. Stop writing mock scripts. Start shipping.
 
