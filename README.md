@@ -125,14 +125,28 @@ Invoicing for freelancers and contractors who need to bill clients without drown
 
 I'm always open to interesting problems, collabs, or just a good tech conversation.
 
-<p align="left">
-  <a href="https://linkedin.com/in/syedtasavour"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" width="36" /></a>
-  <a href="https://twitter.com/syedtasavour_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" width="36" /></a>
-  <a href="https://dev.to/syedtasavour"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="28" width="36" /></a>
-  <a href="https://stackoverflow.com/users/27011590"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="28" width="36" /></a>
-  <a href="https://www.leetcode.com/syedtasavour"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28" width="36" /></a>
-  <a href="https://codepen.io/syedtasavour"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="28" width="36" /></a>
-  <a href="https://discord.gg/syedtasavour"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="28" width="36" /></a>
+<p align="left" style="display:flex; gap:8px; align-items:center;">
+  <a href="https://linkedin.com/in/syedtasavour">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="28" />
+  </a>
+  <a href="https://twitter.com/syedtasavour_">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="28" />
+  </a>
+  <a href="https://dev.to/syedtasavour">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="28" />
+  </a>
+  <a href="https://stackoverflow.com/users/27011590">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="28" />
+  </a>
+  <a href="https://www.leetcode.com/syedtasavour">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28" />
+  </a>
+  <a href="https://codepen.io/syedtasavour">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="28" />
+  </a>
+  <a href="https://discord.gg/syedtasavour">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="28" />
+  </a>
 </p>
 
 ---
