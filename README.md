@@ -93,6 +93,9 @@ Invoicing for freelancers and contractors who need to bill clients without drown
 
 **[Statemint](https://github.com/syedtasavour/Statemint)** · `JavaScript · React · AWS Serverless` · [`Open Source`](https://github.com/syedtasavour/Statemint)
 Your bank statements shouldn't live in a spreadsheet you update by hand. Statemint reads them straight from Gmail (read-only), unlocks the password-protected PDFs, parses every transaction, and turns it into spending insights — without you uploading a file or sharing a single bank credential. Cognito SRP, KMS-encrypted tokens, privacy-first end to end.
+
+**[GeoTagCamera](https://play.google.com/store/apps/details?id=com.geotagcamera.app)** · `React Native · Skia · Appwrite · Mapbox` · [`App`](https://play.google.com/store/apps/details?id=com.geotagcamera.app)
+A photo of a delivery or a site inspection is proof — until sharing strips the EXIF and the "where" and "when" vanish. GeoTagCamera burns high-accuracy GPS coordinates, addresses, and static maps directly into the pixels with Skia canvas rendering, so the metadata can't be deleted. 10+ pro overlays for logistics and field engineering. No accounts, no cloud tracking — just the truth, burned into the frame.
  
 > More dropping regularly. Some will have repos. Some won't. All of them will work.
 
