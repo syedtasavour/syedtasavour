@@ -64,6 +64,9 @@ Generates **$2,000–$4,000 MRR** through ad integrations and aggressive query/c
  
 Pet projects. Internal tools. Closed bets that paid off. Open source experiments that turned into real things. I ship constantly — some have source code, some just have a live URL, all of them work.
 
+**[Airlock](https://github.com/syedtasavour/airlock)** · `Docker · Shell · tinyproxy` · [`Open Source`](https://github.com/syedtasavour/airlock)
+One bad `postinstall` script shouldn't cost you your SSH keys and cloud tokens. Airlock runs untrusted code in a disposable, hardened Docker sandbox — read-only root, dropped capabilities, and a default-deny egress proxy that blocks everything except a tiny domain whitelist. Isolation and exfiltration defense, at the same time.
+
 **[SupplyGuard](https://supplyguard-bat.vercel.app/)** · `TypeScript · Next.js · PostGreSql` · [`Live`](https://supplyguard-bat.vercel.app/)
 Your dependencies are changing faster than your team can review them. SupplyGuard watches what changed, maps it to what matters, and alerts the right people before a quiet deploy becomes an incident. GitHub App-based, privacy-first, no source code stored.
 
@@ -87,6 +90,9 @@ Not just an expense tracker — a 12-month academic financial strategy workspace
  
 **[InvoiceFlow](https://github.com/syedtasavour/InvoiceFlow)** · `JavaScript · Next.js` · [`Open Source`](https://github.com/syedtasavour/InvoiceFlow)
 Invoicing for freelancers and contractors who need to bill clients without drowning in accounting software. Simple. Fast. Gets out of your way.
+
+**[Statemint](https://github.com/syedtasavour/Statemint)** · `JavaScript · React · AWS Serverless` · [`Open Source`](https://github.com/syedtasavour/Statemint)
+Your bank statements shouldn't live in a spreadsheet you update by hand. Statemint reads them straight from Gmail (read-only), unlocks the password-protected PDFs, parses every transaction, and turns it into spending insights — without you uploading a file or sharing a single bank credential. Cognito SRP, KMS-encrypted tokens, privacy-first end to end.
  
 > More dropping regularly. Some will have repos. Some won't. All of them will work.
 
