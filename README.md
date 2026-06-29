@@ -49,15 +49,25 @@ No names. NDAs exist for a reason. But the scale was real.
 ---
 ## Projects I can talk about
 
-### 🚀 [Postlyo](https://postlyo.com) — Multi-Tenant SaaS Blogging Platform
-Built a production-ready multi-tenant blogging platform in **20 days**.
-Fastify · PostgreSQL · Redis · Drizzle ORM · Row-level tenant isolation · 100/100 Lighthouse scores · Custom domain provisioning · Razorpay billing.
+### 🧠 [Uplift Labs](https://uplift.ai) — AI Motion Capture for Sports Performance
+Contributing to an AI-powered platform that turns a phone into a 3D motion-capture lab — movement analytics used by elite teams and athletes.
+
+---
+
+### 🏡 [Speak2 Family](https://speak2family.com) — The First Senior Living Marketplace
+Shipping production features for a platform that connects senior living residents with their families, staff, and caregivers across voice, app, web, and TV — giving aging adults choice and independence in their daily lives.
 
 ---
 
 ### 📢 [Kashmir Students Alerts](https://kashmirstudentalerts.com) — Live Education Alerts
 Built and scaled a live alerts platform serving **100,000+ monthly users** with **4,000+ concurrent sessions**.
 Generates **$2,000–$4,000 MRR** through ad integrations and aggressive query/cache optimization.
+
+---
+
+### 🚀 [Postlyo](https://postlyo.com) — Multi-Tenant SaaS Blogging Platform
+Built a production-ready multi-tenant blogging platform in **20 days**.
+Fastify · PostgreSQL · Redis · Drizzle ORM · Row-level tenant isolation · 100/100 Lighthouse scores · Custom domain provisioning · Razorpay billing.
 
 ---
 ## 🧪 Things I build when no one's watching
