@@ -6,8 +6,8 @@
 <h3 align="center">Full Stack Developer · I build things that scale, ship fast, and don't fall over at 3 AM.</h3>
 
 <p align="center">
-  <a href="https://syedtasavour.me">🌐 syedtasavour.me</a> &nbsp;·&nbsp;
-  <a href="mailto:hi@syedtasavour.me">📬 hi@syedtasavour.me</a> &nbsp;·&nbsp;
+  <a href="https://syedtasavour.com">🌐 syedtasavour.com</a> &nbsp;·&nbsp;
+  <a href="mailto:hi@syedtasavour.com">📬 hi@syedtasavour.com</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/syedtasavour">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://twitter.com/syedtasavour_">Twitter</a>
 </p>
