@@ -7,9 +7,8 @@
 
 <p align="center">
   <a href="https://syedtasavour.com">🌐 syedtasavour.com</a> &nbsp;·&nbsp;
-  <a href="mailto:hi@syedtasavour.com">📬 hi@syedtasavour.com</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/syedtasavour">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://twitter.com/syedtasavour_">Twitter</a>
+  <a href="https://www.upwork.com/freelancers/~01fae35763db926a69">Upwork</a>
 </p>
 
 ---
